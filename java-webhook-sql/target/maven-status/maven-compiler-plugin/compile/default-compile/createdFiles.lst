@@ -1,0 +1,4 @@
+com/example/webhooksql/service/WebhookService.class
+com/example/webhooksql/WebhookSqlApplication.class
+com/example/webhooksql/model/FinalQueryRequest.class
+com/example/webhooksql/model/GenerateWebhookResponse.class
